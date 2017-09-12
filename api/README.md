@@ -10,7 +10,7 @@ were added to the framework.
 The Contao API (Application Programming Interface) Reference is split into different sections.
 
  1. #### [Data Configuration Array](dca/README.md)
-    The DCA is one of the most important features in Contao. The backend CRUD functinality
+    The DCA is one of the most important features in Contao. The backend CRUD functionality
     is described in a PHP array structure. The DCA is responsible for a unified look in
     the backend, and one of the first points where you can customize the system.
 
